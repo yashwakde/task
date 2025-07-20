@@ -164,7 +164,7 @@ const HeroSection = () => {
       {/* Hanging Images */}
       <div
         ref={hangContainerRef}
-        className="relative mt-20 w-full max-w-4xl h-[200px] sm:h-[300px] overflow-visible px-4"
+        className="relative  w-full max-w-4xl h-[200px] sm:h-[300px] overflow-visible px-4"
       >
         <svg
           viewBox="0 0 700 200"
