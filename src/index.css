@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: play;
+  src: url(./assets/PlayfairDisplay-VariableFont_wght.ttf);
+}
+@font-face{
+  font-family:regular;
+  src:url('./assets/Gilroy-Regular.ttf')
+}
+
+@font-face {
+  font-family: qwel;
+  src: url(./assets/Qwigley-Regular.ttf);
+}
